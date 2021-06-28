@@ -1,0 +1,20 @@
+case_001_login:
+  {userAccount: admin,loginPwd: 123456}
+
+case_002_user: {
+  id: "",
+  userName: xiaoli,
+  userSex: 1,
+  userMobile: 131234564389832333298,
+  userEmail: 44348334@qq.com,
+  userAccount: xiaoli1,
+  loginPwd: 111116,
+  confirmPwd: 111116
+         }
+
+case_003_checkuser: {
+  startCreateDate: "",
+  endCreateDate: "",
+  searchValue: "",
+  page: "1"
+}

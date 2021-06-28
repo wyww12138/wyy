@@ -1,0 +1,5 @@
+host: 192.168.31.222
+user: root
+password: "123456"
+db: test_cms
+port: 3306
